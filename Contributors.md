@@ -22,7 +22,6 @@
 - [Maverick Fernandez @100Devs] (https://github.com/nikiatoll)   :-]
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Philip]
-- [David Cao](https://github.com/DavidCao4626)
 - [Jon Pena]
 - [3nhit] (https://github.com/3nhit)
 - [khada]
